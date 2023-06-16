@@ -1,6 +1,17 @@
-header{
+header {
   text-align: center
 }
+
 img {
   border-radius: 50%;
+}
+
+.link-in-header {
+  text-decoration: none;
+  color: grey;
+}
+
+.link-tel {
+  border-left: 1px;
+  border-right: 1px;
 }
