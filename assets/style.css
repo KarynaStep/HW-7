@@ -1,3 +1,7 @@
+body {
+  font-family: 'Montserrat', sans-serif;;
+}
+
 header {
   text-align: center
 }
@@ -10,7 +14,8 @@ img {
   text-decoration: none;
   color: grey;
 }
-.linl-tel{
+
+.linl-tel {
   border-left: solid 1px;
   border-right: solid 1px;
   padding-left: 5px;
@@ -20,7 +25,14 @@ img {
 h2 {
   border-top: solid 2px;
   border-bottom: solid 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
+
 .info_post {
-      font-weight:normal;
+  font-weight: normal;
+}
+
+.experience-date {
+  font-style:  italic;
 }
