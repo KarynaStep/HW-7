@@ -1,18 +1,25 @@
 body {
-  font-family: 'Montserrat', sans-serif;;
+  font-family: 'Montserrat', sans-serif;
+  padding: 30px;
 }
 
 header {
-  text-align: center
+  text-align: center;
 }
 
-img {
+main {
+  color: rgb(72, 72, 72);
+}
+
+.image-resume {
   border-radius: 50%;
+  height: 130px;
+  width: 130px;
 }
 
 .link-in-header {
   text-decoration: none;
-  color: grey;
+  color: rgb(72, 72, 72);
 }
 
 .linl-tel {
@@ -22,17 +29,17 @@ img {
   padding-right: 5px;
 }
 
-h2 {
+.main-section__header {
   border-top: solid 2px;
   border-bottom: solid 1px;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
-.info_post {
+.info-post {
   font-weight: normal;
 }
 
 .experience-date {
-  font-style:  italic;
+  font-style: italic;
 }
